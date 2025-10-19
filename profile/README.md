@@ -1,7 +1,7 @@
 # 🍋 Minilemon Technology  
 _Hybrid creative tech company or you can call it Createch Company & We are based in Indonesia!_
 
-Minilemon Technology adalah perusahaan teknologi berbasis produk dan inovasi sosial yang bertujuan membangun solusi digital berdampak—dari pendidikan, seni, hingga ekosistem komunitas terbuka.
+Minilemon Technology adalah perusahaan teknologi berbasis produk dan inovasi sosial yang bertujuan membangun solusi digital yang berdampak dari pendidikan, seni, hingga ekosistem komunitas terbuka.
 
 Kami percaya bahwa teknologi harus kolaboratif, menyenangkan, dan membawa nilai jangka panjang.
 
